@@ -1,7 +1,7 @@
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-solution-UzrK4o2ty2](https://www.frontendmentor.io/solutions/profile-card-component-solution-UzrK4o2ty2)
-- Live Site URL: [https://smgy94.github.io/frontend-mentor-profile-card-component/](https://smgy94.github.io/frontend-mentor-profile-card-component/)
+- Live Site URL: [https://user9511.github.io/frontend-mentor-profile-card-component/](https://user9511.github.io/frontend-mentor-profile-card-component/)
 
 # Frontend Mentor - Profile card component solution
 
